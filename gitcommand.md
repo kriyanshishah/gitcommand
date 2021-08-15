@@ -1,4 +1,4 @@
-##Some basic git commmands
+### Some basic git commmands
 
 * git init - to initialise git in the folder
 * git status- to check any updates happened in th file
@@ -12,4 +12,6 @@
 * git merg
 
 
+
+### merge
 
