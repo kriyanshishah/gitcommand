@@ -9,9 +9,7 @@
 * git branch branch-name - will create a new branch
 * git branch -d branch-name - to delete existing branch with no unmerged change.
 
-* git merg
+* git merge branch-name - it will merge the branch to the master.
+* git merge --abort - to abort the merge
 
-
-
-### merge
 
